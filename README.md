@@ -72,6 +72,6 @@ You can inspect the entity relationship diagram and example data below.
   * so the customer B	has 520 points at the end.
   * and Customer A earns 1270 points at the end.
   
-## You can find all the Mysql queries leading to these results Here:
-[dannys_dinner](Dannys_dinner_query_file.sql) .
+### You can find all the Mysql queries leading to these results Here:
+[dannys_dinner](Dannys_dinner_query_file.sql).
 
